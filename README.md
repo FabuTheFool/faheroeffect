@@ -1,4 +1,39 @@
-# React + TypeScript + Vite
+# Hero Layered Banner Effect.
+
+This is a test for React.JS and CSS Layered Text between backgrouds, feel free to fork and use this as a template
+
+- FA 2024 -
+
+## Installation
+
+cd into the fabriheroeffect folder
+
+```bash
+cd fabriheroeffect
+```
+
+## Usage
+
+```npm
+npm i
+
+npm run dev
+
+```
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+# Using React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
