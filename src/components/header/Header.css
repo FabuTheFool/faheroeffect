@@ -14,9 +14,15 @@ header {
 }
 
 .contacto {
-    padding: 0 20px;
-    background-color: rgba(222, 117, 128, 0.8);
-
+    padding: 8px 20px;
+    background-color: rgb(222, 117, 128, 0.75);
+    cursor: pointer;
     border-radius: 14px;
+
+    &:hover {
+        transition-duration: 0.3s;
+        transform: scale(1.08);
+        background-color: rgb(222, 117, 128);
+    }
 
 }
