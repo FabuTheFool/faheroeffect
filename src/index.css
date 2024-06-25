@@ -1,5 +1,6 @@
 body {
-  background-color: black;
+  background-color: rgb(8, 8, 8, 0.95);
+
   color: white;
   font-family: Poppins;
   margin: 0;
@@ -38,24 +39,17 @@ body {
   background-size: cover;
   margin-bottom: -10px;
   z-index: 10;
-
 }
 
 .banner .content {
-
   font-size: 14px;
   text-align: top center;
   margin-top: -40px;
-
 }
 
 .banner .content div:nth-child(1) {
   padding-bottom: -20px;
   font-size: 3em;
-
-
-
-
 }
 
 .banner .content div:nth-child(2) {
@@ -63,8 +57,6 @@ body {
   font-size: 22em;
   font-weight: bold;
   margin-top: -40px;
-
-
 }
 
 .banner .content div:nth-child(3) {
@@ -94,6 +86,7 @@ body {
     background-color: rgb(86, 92, 190, 0.75);
     transition-duration: 0.3s;
     transform: scale(1.08);
+    box-shadow: 1px 1px 10px rgb(86, 92, 190, 1.5);
 
 
 
