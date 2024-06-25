@@ -1,0 +1,22 @@
+header {
+    border-bottom: 1px transparent white;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 100px;
+    position: relative;
+    z-index: 100;
+    background-color: rgb(0, 0, 0, 0.5);
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.contacto {
+    padding: 0 20px;
+    background-color: rgba(222, 117, 128, 0.8);
+
+    border-radius: 14px;
+
+}
