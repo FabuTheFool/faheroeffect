@@ -6,7 +6,7 @@ This is a test for React.JS and CSS Layered Text between backgrouds, feel free t
 
 ## Installation
 
-cd into the fabriheroeffect folder
+cd into the faheroeffect folder
 
 ```bash
 cd fabriheroeffect
