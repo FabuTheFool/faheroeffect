@@ -50,7 +50,7 @@ If you are developing a production application, we recommend updating the config
 
 ```js
 export default {
-  // other rules...
+  // other rules....
   parserOptions: {
     ecmaVersion: 'latest',
     sourceType: 'module',
